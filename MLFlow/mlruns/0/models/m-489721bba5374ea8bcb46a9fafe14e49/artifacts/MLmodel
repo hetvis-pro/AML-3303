@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Admin/Downloads/git%20practice/AML-3303/MLFlow/mlruns/0/models/m-489721bba5374ea8bcb46a9fafe14e49/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.5.0
+model_id: m-489721bba5374ea8bcb46a9fafe14e49
+model_size_bytes: 72319
+model_uuid: m-489721bba5374ea8bcb46a9fafe14e49
+prompts: null
+run_id: 7192dc881556469d809f6bb4c6ad8dd0
+utc_time_created: '2025-10-22 21:55:52.121650'

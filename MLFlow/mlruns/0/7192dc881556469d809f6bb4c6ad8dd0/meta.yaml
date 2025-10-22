@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Downloads/git%20practice/AML-3303/MLFlow/mlruns/0/7192dc881556469d809f6bb4c6ad8dd0/artifacts
+end_time: 1761170196504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7192dc881556469d809f6bb4c6ad8dd0
+run_name: adorable-sow-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761170151846
+status: 3
+tags: []
+user_id: Admin

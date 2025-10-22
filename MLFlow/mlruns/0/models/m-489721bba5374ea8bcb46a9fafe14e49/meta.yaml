@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Admin/Downloads/git%20practice/AML-3303/MLFlow/mlruns/0/models/m-489721bba5374ea8bcb46a9fafe14e49/artifacts
+creation_timestamp: 1761170152056
+experiment_id: '0'
+last_updated_timestamp: 1761170196480
+model_id: m-489721bba5374ea8bcb46a9fafe14e49
+model_type: null
+name: model
+source_run_id: 7192dc881556469d809f6bb4c6ad8dd0
+status: 2
+status_message: null
